@@ -1,4 +1,4 @@
-```markdown
+
 # ▶️ How to Run Python — Locally & Online (Free for Everyone)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
