@@ -230,7 +230,7 @@ This guide is licensed under the **MIT License** — free to use, share, and ada
 ```
 MIT License
 
-Copyright (c) 2025 [Author Name]
+Copyright (c) 2025 Peter Njuguna
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Guide"), to deal
