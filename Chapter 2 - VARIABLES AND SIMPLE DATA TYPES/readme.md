@@ -5,3 +5,5 @@ Naming and Using Variables
 A traceback is a record of
 where the interpreter ran into trouble when trying to
 execute your code.
+Strings
+Avoiding Syntax Errors with Strings
